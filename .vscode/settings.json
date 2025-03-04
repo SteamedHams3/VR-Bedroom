@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VR Bedroom.sln"
+    "dotnet.defaultSolution": "VR-Bedroom.sln"
 }
